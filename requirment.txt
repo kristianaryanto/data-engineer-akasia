@@ -1,0 +1,1 @@
+pip install dlt pymssql gspread oauth2client pandas psycopg2 sqlalchemy
